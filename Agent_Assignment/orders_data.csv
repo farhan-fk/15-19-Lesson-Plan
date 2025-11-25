@@ -1,0 +1,16 @@
+order_id,customer_name,customer_email,container_number,status,origin_port,destination_port,shipped_date,estimated_delivery
+ORD-1001,John Smith,john.smith@example.com,MAEU7654321,Delivered,Shanghai,Los Angeles,2025-10-15,2025-11-05
+ORD-1002,Sarah Johnson,sarah.j@example.com,MAEU8765432,Shipped,Rotterdam,New York,2025-11-01,2025-11-20
+ORD-1003,Michael Chen,m.chen@example.com,MAEU9876543,Processing,Singapore,Hamburg,2025-11-10,2025-12-05
+ORD-1004,Emma Williams,emma.w@example.com,MAEU1234567,Shipped,Dubai,London,2025-11-05,2025-11-18
+ORD-1005,David Brown,david.brown@example.com,MAEU2345678,Processing,Mumbai,Rotterdam,2025-11-12,2025-12-08
+ORD-1006,Lisa Anderson,lisa.a@example.com,MAEU3456789,Delivered,Hong Kong,Hamburg,2025-10-20,2025-11-10
+ORD-1007,James Wilson,james.w@example.com,MAEU4567890,Shipped,Busan,Long Beach,2025-11-08,2025-11-25
+ORD-1008,Maria Garcia,maria.g@example.com,MAEU5678901,Processing,Barcelona,Miami,2025-11-14,2025-12-02
+ORD-1009,Robert Taylor,robert.t@example.com,MAEU6789012,Delivered,Tokyo,Seattle,2025-10-25,2025-11-12
+ORD-1010,Jennifer Lee,jennifer.l@example.com,MAEU7890123,Shipped,Colombo,Antwerp,2025-11-03,2025-11-22
+ORD-1011,William Martinez,w.martinez@example.com,MAEU8901234,Processing,Santos,Felixstowe,2025-11-15,2025-12-10
+ORD-1012,Patricia Davis,patricia.d@example.com,MAEU9012345,Shipped,Port Klang,Genoa,2025-11-06,2025-11-28
+ORD-1013,Christopher Moore,chris.m@example.com,MAEU0123456,Delivered,Jeddah,Rotterdam,2025-10-18,2025-11-08
+ORD-1014,Linda Rodriguez,linda.r@example.com,MAEU1357924,Processing,Manila,Vancouver,2025-11-13,2025-12-07
+ORD-1015,Daniel White,daniel.w@example.com,MAEU2468013,Shipped,Algeciras,Houston,2025-11-09,2025-11-27
