@@ -5,7 +5,7 @@ from pathlib import Path
 load_dotenv()
 client = OpenAI()
 
-PDF_PATH = Path(r"C:\Users\ffarh\OneDrive\Desktop\Codes\Maersk\Maersk25-26\RAG\Profile (15).pdf")
+PDF_PATH = Path(r"C:\Users\ffarh\OneDrive\Desktop\Codes\Maersk\Maersk25-26\RAG\Profile (30).pdf")
 
 def create_vector_store(name="fk_vector_store"):
     try:

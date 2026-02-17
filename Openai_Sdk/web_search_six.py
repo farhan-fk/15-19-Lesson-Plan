@@ -9,10 +9,10 @@ client = OpenAI()
 
 # response = client.responses.create(
 #     model="gpt-4o-mini",
-#     input="Give me the latest news from India from yesterday",
+#     input="Who won India Vs pak t20 world cup 2026 Cricket match?",
 #     instructions="Be concise and factual.",
 #     temperature=1,
-#     max_output_tokens=200,
+    
     
 # )
 
@@ -21,7 +21,7 @@ client = OpenAI()
 
 # response = client.responses.create(
 #     model="gpt-4o-mini",
-#     input="Give me the latest news from India from yesterday",
+#     input="who won India Vs pak t20 world cup 2026 Cricket match?",
 #     instructions="Be concise and factual.",
 #     temperature=1,
 #     max_output_tokens=200,

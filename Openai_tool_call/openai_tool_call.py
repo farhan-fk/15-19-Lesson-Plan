@@ -59,11 +59,11 @@ resp1 = client.responses.create(
 )
 
 
-# print("First output after tool call (if any): ", resp1.output_text) # Text output is flattened because the model chose to invoke a tool
-# print("\nFull raw model output:",resp1)
-# print("=== RAW MODEL OUTPUT ===")
-# for item in resp1.output:
-#     print(item)
+print("First output after tool call (if any): ", resp1.output_text) # Text output is flattened because the model chose to invoke a tool
+print("\nFull raw model output:",resp1)
+print("=== RAW MODEL OUTPUT ===")
+for item in resp1.output:
+    print(item)
 
 
 # IMPORTANT: append the model's structured output items, not output_text
